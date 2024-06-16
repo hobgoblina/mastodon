@@ -26,16 +26,16 @@ Disallow: /interact/
 User-agent: Amazonbot
 Disallow: /
 
-# AI Data Scraper
-# https://darkvisitors.com/agents/anthropic-ai
-
-User-agent: anthropic-ai
-Disallow: /
-
 # AI Search Crawler
 # https://darkvisitors.com/agents/applebot
 
 User-agent: Applebot
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/applebot-extended
+
+User-agent: Applebot-Extended
 Disallow: /
 
 # AI Data Scraper
@@ -56,10 +56,10 @@ Disallow: /
 User-agent: ChatGPT-User
 Disallow: /
 
-# AI Assistant
-# https://darkvisitors.com/agents/cohere-ai
+# AI Data Scraper
+# https://darkvisitors.com/agents/claudebot
 
-User-agent: cohere-ai
+User-agent: ClaudeBot
 Disallow: /
 
 # AI Data Scraper
